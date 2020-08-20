@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LayoutsAndroid1</string>
+    <string name="welcome_text">Welcome to</string>
+    <string name="company_name">Geektech</string>
+    <string name="login_field">Enter Login</string>
+    <string name="password_field">Enter Password</string>
+    <string name="btn_login">Login</string>
+</resources>
